@@ -1,0 +1,24 @@
+###ANSPRECHPARTNER###,
+
+anbei erhalten Sie die Abrechnungsdaten zu "###ACCOUNT_NAME###" (###SALESMODEL###) für den Leistungszeitraum ###BILLING_PERIOD###.
+
+Summe der Netto-Basispreise:  ###NET_UNIT_PRICE_SUM### EUR
+Ihr Abrechnungsbetrag (netto): ###BILLING_AMOUNT### EUR
+Anzahl Verkaufstransaktionen: ###TRANSACTION_COUNT###
+
+Neben dem Rechnungsdokument (PDF) enthält die E-Mail eine Verkaufsübersicht bzw. den sog. Einzelverkaufsnachweis (EVN), der alle Transaktionen des Abrechnungszeitraums mit dazugehörigen Informationen enthält. Diese Datei wird ab sofort als ZIP Datei komprimiert geliefert.
+
+Anlagen: 
+###ATTACHMENTS###
+###ACCOUNTMANAGER_FOOTER###
+
+ 
+Der Inhalt dieser E-Mail ist ausschließlich für den bezeichneten Adressaten bestimmt. Wenn Sie nicht der vorgesehene Adressat dieser E-Mail oder dessen Vertreter sein sollten, beachten Sie bitte, dass jede Form der Veröffentlichung, Vervielfältigung oder Weitergabe des Inhalts dieser e-Mail unzulässig ist. Wir bitten Sie sofort den Absender zu informieren und die E-Mail zu löschen.
+
+The information contained in this e-mail is intended solely for the addressee. Access to this e-mail by anyone else is unauthorized. If you are not the intended recipient, any form of disclosure, reproduction, distribution or any action taken or refrained from in reliance on it, is prohibited and may be unlawful. Please notify the sender immediately and destroy this e-mail.
+
+www.pubbles.de
+
+pubbles GmbH & Co. KG | Sitz: München, Amtsgericht München HRA 98454 |
+Komplementärin: pubbles Verwaltungsgesellschaft mbH | Sitz: München, Amtsgericht München HRB 196632 |
+Geschäftsführer: Dr. Maximilian Hugendubel, Dr. Bernd Schröder |

@@ -1,0 +1,8 @@
+.no-print		{ display:none; }
+
+@page {size: landscape}
+
+#basecontent { 
+	padding:5px;
+	width: 1000px;
+}

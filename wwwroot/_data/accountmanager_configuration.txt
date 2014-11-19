@@ -1,0 +1,46 @@
+'id';'email';'name';'footer'
+'GW';'gerald.wechsler@pubbles.de';'Gerald Wechsler';'Mit freundlichen Grüßen,
+Gerald Wechsler
+
+Operations Manager
+-------------------------------------------------------------------------------
+pubbles GmbH & Co. KG
+Albrechtstraße 14
+80636 München
+
+T +49 89 4522 018 6684
+E gerald.wechsler@pubbles.de'
+'BC';'balazs.csonka@pubbles.de';'Balázs Csonka';'Mit freundlichen Grüßen
+Balázs Csonka
+
+Programm Manager eBooks
+------------------------------------------------------------------------------- 
+pubbles GmbH & Co. KG
+Albrechtstraße 14
+80636 München
+
+T +49 89 4522 018 6692
+E balazs.csonka@pubbles.de'
+'CH';'claudia.haslauer@pubbles.de';'Claudia Haslauer';'Mit freundlichen Grüßen
+Claudia Haslauer
+
+Programm Manager eBooks
+-------------------------------------------------------------------------------
+pubbles GmbH & Co. KG
+Albrechtstraße 14
+80636 München
+
+T +49 89 4522 018 6694
+E claudia.haslauer@pubbles.de'
+'FS';'florian.schupp@pubbles.de';'Mailfactory Tester';'-------------------------------------------------------------------------------
+Mailfactory Tester'
+'SR';'susanne.riedl@pubbles.de';'Susanne Riedl';'Mit freundlichen Grüßen
+Susanne Riedl
+
+Content Manager
+------------------------------------------------------------------------------- 
+pubbles GmbH & Co. KG 
+Albrechtstraße 14 
+80636 München  
+T +49 89 4522 018 6683
+E susanne.riedl@pubbles.de'

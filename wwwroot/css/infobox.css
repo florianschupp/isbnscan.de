@@ -1,0 +1,141 @@
+
+#lightbox div {
+	background: #fff;
+	border: 30px solid #fff;
+	color: #000;
+	opacity: 0;
+	position: absolute;
+	left: 40%;
+	top: 0;
+	z-index: 0;
+	margin-top: 0px;
+	padding-top: 40px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-moz-box-shadow: 0 0 300px rgba(0, 0, 0, 1);
+	-webkit-box-shadow: 0 0 30px rgba(0, 0, 0, 0.6);
+	box-shadow: 0 0 40px rgba(0, 0, 0, 0.4);
+	-moz-transition: all 0.3s ease-out;
+	-o-transition: all 0.3s ease-out;
+	-webkit-transition: all 0.3s ease-out;
+}
+#lightbox div:target {
+	opacity: 1;
+	z-index:10
+}
+#lightbox img {
+	float: left;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+}
+#lightbox #img2 {
+	left: 15%;
+}
+#lightbox a {
+	background: url(../img/close.png) no-repeat left top;
+	height: 28px;
+	width: 30px;
+	position: absolute;
+	top: -42px;
+	right: -42px;
+}
+
+
+
+#basecontent table.transaction_infobox {
+	border:solid #666 !important;
+	border-width:1px 0 0 1px !important;  
+}
+
+#basecontent .transaction_infobox td{
+	font-size: 9px;
+	line-height: 120%;
+	padding: 3px;
+	border:solid #666 !important;
+	border-width:0 1px 1px 0 !important;
+    
+}
+
+#basecontent .transaction_infobox .trans td, {
+/*	white-space: nowrap;*/
+
+}
+
+#basecontent .transaction_infobox tr.head td {
+/*	white-space: nowrap;*/
+
+}
+
+
+#basecontent .transaction_infobox td.isbn {
+	width: 80px;
+}
+
+#basecontent .transaction_infobox td.count {
+	width: 20px;
+}
+
+#basecontent .transaction_infobox td.supplier {
+	width: 120px;
+}
+
+#basecontent .transaction_infobox td.distribution_channel {
+	width: 50px;
+}
+#basecontent .transaction_infobox td.sales_mocel {
+	width: 50px;
+}
+#basecontent .transaction_infobox td.title {
+	width: 100px;
+}
+
+#basecontent .transaction_infobox td.actual_gross_price, #basecontent .transaction_infobox td.gross_list_price {
+	width: 30px;
+}
+#basecontent .transaction_infobox td.actual_gross_price_currency, #basecontent .transaction_infobox td.gross_list_price_currency {
+	width: 30px;
+}
+
+#basecontent table.transaction_infobox {
+	border-collapse:collapse;	
+}
+
+table.transaction_infobox, .transaction_infobox th, .transaction_infobox td
+{
+	border: 1px solid #fff;
+}
+
+table.transaction_infobox, .transaction_infobox td
+{
+	padding: 0 3px 0 3px; 
+}
+
+.tooltip {
+	position: relative;
+	cursor: default; 
+	display: inline-block;
+}
+
+.tooltip em {
+	display: none;
+/*	font-size: 14px;
+	line-height: 16px;
+	font-style: normal;*/
+	text-align: center;
+}
+
+.tooltip:hover {
+	color: #C00; z-index: 1;
+}
+.tooltip:hover em {
+	display: block;
+	position: absolute; 
+	left: 0; top: 105%; 
+	min-width: 250%; 
+	color: #D3A7A7;
+	border: 2px solid #00ACE6;
+	padding: 1px;
+	background: #4B4B4E;
+}
